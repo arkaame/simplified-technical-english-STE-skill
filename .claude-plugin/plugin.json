@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "simplified-technical-english",
+  "description": "Write and rewrite technical documentation in ASD-STE100 Simplified Technical English Issue 9.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arka",
+    "url": "https://github.com/arkaame"
+  },
+  "homepage": "https://github.com/arkaame/simplified-technical-english",
+  "repository": "https://github.com/arkaame/simplified-technical-english",
+  "license": "MIT",
+  "keywords": [
+    "ste",
+    "simplified-technical-english",
+    "asd-ste100",
+    "technical-writing",
+    "documentation"
+  ],
+  "skills": ["./"]
+}

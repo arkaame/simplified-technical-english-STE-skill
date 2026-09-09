@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "simplified-technical-english",
+  "owner": {
+    "name": "Arka",
+    "url": "https://github.com/arkaame"
+  },
+  "description": "Install Simplified Technical English as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "simplified-technical-english",
+      "source": "./",
+      "description": "Write and rewrite technical documentation in ASD-STE100 Simplified Technical English Issue 9.",
+      "license": "MIT",
+      "keywords": [
+        "ste",
+        "simplified-technical-english",
+        "asd-ste100",
+        "technical-writing",
+        "documentation"
+      ]
+    }
+  ]
+}

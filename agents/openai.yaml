@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simplified Technical English"
+  short_description: "Rewrite technical docs in ASD-STE100"
+  default_prompt: "Use $simplified-technical-english to rewrite this text in Simplified Technical English. Keep the technical meaning. Do not invent data."

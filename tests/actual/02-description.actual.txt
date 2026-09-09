@@ -1,0 +1,5 @@
+The control unit monitors the hydraulic pump.
+
+It is necessary to do an inspection of the filter before the technician removes the cover.
+
+It is dangerous to open the bypass valve.

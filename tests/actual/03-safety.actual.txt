@@ -1,0 +1,5 @@
+WARNING
+Keep grease away from the oxygen tubes. If grease is on the oxygen tubes, an explosion can occur.
+
+CAUTION
+Before you remove the unit, disconnect the battery. If you do not disconnect the battery, damage to the circuit cards can occur.
