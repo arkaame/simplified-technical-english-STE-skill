@@ -1,6 +1,6 @@
 # Simplified Technical English
 
-Rewrite technical documentation so a reader with limited English can understand it on the first pass. The skill follows ASD-STE100 Issue 9 writing rules. Because it is Markdown, it works with Grok, Claude, Cursor, and any other agent that loads skills.
+Rewrite technical documentation so a reader with limited English can understand it on the first pass. The skill follows ASD-STE100 Issue writing rules. Because it is Markdown, it works with Grok, Claude, Cursor, and any other agent that loads skills.
 
 This skill is a writing aid. It is not the official ASD-STE100 standard and does not replace the official STE dictionary.
 
@@ -90,7 +90,7 @@ The skill:
 
 1. Identifies the text type (procedure, description, safety instruction, or note)
 2. Keeps the technical meaning. It does not invent data, limits, part numbers, or risks
-3. Applies Issue 9 rules in order: words, noun strings, verbs, sentence shape, type-specific limits, punctuation, then consistency
+3. Applies Issue rules in order: words, noun strings, verbs, sentence shape, type-specific limits, punctuation, then consistency
 4. Replaces unapproved wording from `references/substitutions.md`, or rebuilds the sentence if a swap would change meaning
 5. Counts words with the Section 8 method (20 words for procedures, warnings, and cautions; 25 words for descriptions and notes)
 
