@@ -1,4 +1,4 @@
-# Simplified Technical English
+# Simplified Technical English (STE-Skill)
 
 Rewrite technical documentation so a reader with limited English can understand it on the first pass. The skill follows ASD-STE100 Issue writing rules. Because it is Markdown, it works with Grok, Claude, Cursor, and any other agent that loads skills.
 
